@@ -1,10 +1,10 @@
-# Hotel Management System
+# 🏨Hotel Management System
 
 A desktop application built with C# and .NET to efficiently manage hotel operations such as room booking, customer check-in/out, and billing. This system provides a user-friendly interface to streamline daily hotel management tasks.
 
 ---
 
-## Features
+## 🚩Features
 
 -   Room management: Add, edit, and delete rooms
 -   Booking management: Book rooms for customers
@@ -16,7 +16,7 @@ A desktop application built with C# and .NET to efficiently manage hotel operati
 
 ---
 
-## Technology Stack
+## 🛠️Technology Stack
 
 -   Language: C#
 -   Framework: .NET (specify version e.g., .NET 6.0 or .NET 8.0)
@@ -25,7 +25,7 @@ A desktop application built with C# and .NET to efficiently manage hotel operati
 
 ---
 
-## Prerequisites
+## 📋Prerequisites
 
 -   Windows OS
 -   [.NET SDK](https://dotnet.microsoft.com/en-us/download) (version 6.0 or later)
@@ -33,7 +33,7 @@ A desktop application built with C# and .NET to efficiently manage hotel operati
 
 ---
 
-## Installation & Running
+## ⚙️Installation & Running
 
 1. Clone the repository
 
@@ -58,9 +58,9 @@ dotnet run --project path\to\your\HotelManagementSystem.csproj
 
 OR open the solution file (.sln) in Visual Studio and press F5 to run.
 
-## Contact
+## 📞Contact
 
 Created by Jahidul Islam Jihad.  
-Email: [islamjahiduljihad@gmail.com](islamjahiduljihad@gmail.com)
-GitHub: [https://github.com/jahidul2004](https://github.com/jahidul2004)
+Email: [islamjahiduljihad@gmail.com](islamjahiduljihad@gmail.com) <br/>
+GitHub: [https://github.com/jahidul2004](https://github.com/jahidul2004)<br/>
 Portfolio: [jahiduljihad.netlify.app](https://jahiduljihad.netlify.app/)
