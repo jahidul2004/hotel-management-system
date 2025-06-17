@@ -1,0 +1,19 @@
+C:\Users\Joy07\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Joy07\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Joy07\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Joy07\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Hotel Management System 2.csprojAssemblyReference.cache
+C:\Users\Joy07\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Joy07\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Joy07\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RegistrationForm.resources
+C:\Users\Joy07\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Hotel Management System 2.csproj.GenerateResource.cache
+C:\Users\Joy07\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Hotel Management System 2.csproj.CoreCompileInputs.cache
+C:\Users\Joy07\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Joy07\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Joy07\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AdminMainForm.resources
+C:\Users\Joy07\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.admin_dashboard.resources
+C:\Users\Joy07\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.admin_addUser.resources
+C:\Users\Joy07\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.admin_rooms.resources
+C:\Users\Joy07\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.staffMainForm.resources
+C:\Users\Joy07\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.staff_bookRoom.resources
+C:\Users\Joy07\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.clientinfo.resources
+C:\Users\Joy07\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.admin_customers.resources
